@@ -82,4 +82,4 @@ Groq LLM + Gmail/Calendar integration
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7dd3fc&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=#a78bfa&height=120&section=footer&animation=twinkling" />
