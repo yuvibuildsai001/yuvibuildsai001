@@ -19,7 +19,6 @@
 
 ## 🧠 Who I Am
 
-```typescript
 const yuvraj = {
   title: "Data Analyst | Python Developer",
   location: "Bengaluru, Karnataka, India",
@@ -46,7 +45,7 @@ const yuvraj = {
   status: "Self-taught fresher, building real-world data & AI projects",
   openTo: ["Data Analyst roles", "Python Developer roles", "Freelance data projects"],
 } as const;
-```
+
 
 <br/>
 
